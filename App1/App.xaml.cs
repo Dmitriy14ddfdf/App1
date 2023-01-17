@@ -16,7 +16,7 @@ namespace App1
             DependencyService.Register<MockDataStore>();
             MainPage = new AppShell();
         }
-        //uyff
+        //uyffds
         protected override void OnStart()
         {
         }
